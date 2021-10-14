@@ -5,8 +5,7 @@ html { box-sizing: border-box; }
 body {
 	margin: 0;
 	font-family: 'Source Sans Pro', sans-serif;
-	color: white;
-}
+	}
 
 .paticka {
 	text-align: center;
@@ -16,6 +15,12 @@ body {
 
 .paticka a {
 	color: silver;
+}
+
+p,
+h1,
+h2 {
+	color: white;
 }
 
 p {
